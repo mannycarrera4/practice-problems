@@ -1,2 +1,6 @@
-const array = [1,2,3,4,5]
-console.log(array[array.length -1])
+function getLast(array) {
+  return console.warn(array[array.length -1])
+}
+
+//Example
+getLast([1,2,3,'hello', 4])
