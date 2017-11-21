@@ -1,5 +1,7 @@
+//Get last element of an array
+
 function getLast(array) {
-  return console.warn(array[array.length -1])
+  return array[array.length -1])
 }
 
 //Example
