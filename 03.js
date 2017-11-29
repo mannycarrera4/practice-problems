@@ -7,4 +7,4 @@ function findNthElement(arr, index) {
 }
 
 // Example
-findNthElement(array, 3)
+console.log(findNthElement(array, 3))

@@ -5,4 +5,4 @@ function getLast(array) {
 }
 
 //Example
-getLast([1,2,3,'hello', 4])
+console.log(getLast([1,2,3,'hello', 4]))

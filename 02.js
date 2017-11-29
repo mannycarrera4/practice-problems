@@ -7,4 +7,4 @@ function secondToLastEl(arr) {
 }
 
 // Example
-secondEl(array)
+console.log(secondEl(array))

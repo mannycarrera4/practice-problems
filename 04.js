@@ -7,4 +7,4 @@ function findLengthOfList(arr) {
 }
 
 // Example
-findLengthOfList(array)
+console.log(findLengthOfList(array))
